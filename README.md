@@ -1,1 +1,1 @@
-# test_fast_print
+# pratical-test-maxy-academy

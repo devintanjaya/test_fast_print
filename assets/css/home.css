@@ -1,0 +1,96 @@
+.page-title
+{
+	text-align : center;
+	margin-top : 40px;
+	margin-bottom : 40px;
+}
+
+.container
+{
+	margin-left : 5%;
+}
+
+#status-filter
+{
+	margin-bottom : 30px;
+}
+
+.kolom
+{
+	padding-left : 10px;
+	padding-right : 10px;
+	border : 1px solid black;
+}
+
+#to-add-barang
+{
+	border : 1px solid black;
+	width : 200px;
+	margin-top : 20px;
+	margin-bottom : 20px;
+	margin-left : 20px;
+}
+
+.kolom-kiri
+{
+	padding-left : 10px;
+	padding-right : 10px;
+}
+.kolom-kanan
+{
+	padding-left : 10px;
+	padding-right : 10px;
+}
+
+.row-master-barang
+{
+	margin-bottom : 20px;
+}
+
+#insert-barang, #update-barang
+{
+	margin-top : 20px;
+}
+
+.update
+{
+	margin-top : 10px;
+	margin-bottom : 10px;
+	width : 100px;
+}
+.delete
+{
+	margin-top : 10px;
+	margin-bottom : 10px;
+	width : 100px;
+}
+.delete-question
+{
+	margin-bottom : 20px;
+}
+.confirm-delete-button
+{
+	margin-bottom : 20px;
+}
+
+#tabel
+{
+	margin-bottom : 200px;
+}
+
+.empty-input
+{
+	border : 1px solid red;
+}
+.input-error 
+{
+	color : red;
+	font-weight : bold;
+}
+
+
+.hidden
+{
+	display : none;
+}
+
